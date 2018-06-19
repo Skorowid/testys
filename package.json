@@ -1,0 +1,21 @@
+{
+  "name": "testys",
+  "version": "0.1.0",
+  "description": "A minimal Electron application for testing knowlage for database",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "test",
+    "tutorial",
+    "how to"
+  ],
+  "author": "Skorowid",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}

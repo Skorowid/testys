@@ -1,0 +1,10 @@
+{
+    "title": "Wymień zmienne kształtujące sytuację w modelu Fiedlera",
+    "kindQuestion": 1,
+    "correctAnswers": [1,1,0,0,1],
+    "answers": ["1 .siła stanowiska",
+        "2. struktura zadań",
+        "2. siła stanowiska",
+        "3. struktura zadań",
+        "3. stosunki między menedżerem a podwładnymi"]
+}

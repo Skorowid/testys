@@ -1,0 +1,6 @@
+{
+    "title": "Pytanie",
+    "kindQuestion": 1,
+    "correctAnswers": [0,0,0,1],
+    "answers": ["tak tak tak", " nie nie nie", "ja ja ja ", "o O o"]
+}
