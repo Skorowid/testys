@@ -2,8 +2,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'">
     <title>Testys</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+
   </head>
   <body>
     <div class="main-container">
@@ -15,13 +17,15 @@
       <div id="questions"></div>
 
     </div>
+    <a href="#" id="drag">item</a>
     <script>
 
 
       </script>
     <script>
       // You can also require other files to run in this process
-      require('./renderer.js')
+     //
     </script>
+    <script src="renderer.js"></script>
   </body>
 </html>

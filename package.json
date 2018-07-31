@@ -4,7 +4,9 @@
   "description": "A minimal Electron application for testing knowlage for database",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "repository": "",
   "keywords": [
@@ -16,6 +18,9 @@
   "author": "Skorowid",
   "license": "CC0 1.0",
   "devDependencies": {
-    "electron": "^2.0.0"
+    "devtron": "^1.4.0",
+    "electron": "^2.0.5",
+    "electron-builder": "^20.26.0",
+    "spectron": "^3.8.0"
   }
 }
